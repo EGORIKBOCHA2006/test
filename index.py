@@ -1,5 +1,5 @@
 a=1
 print(a)
-while a!=5:
+while a!=10:
     a+=1
     print(a)
